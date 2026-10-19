@@ -1,0 +1,148 @@
+:root {
+  --azul: #1f2a6e;
+  --azul-oscuro: #141c4d;
+  --azul-claro: #e9ecf8;
+  --plata: #c9ced8;
+  --naranja: #f08a24;
+  --naranja-oscuro: #d9741a;
+  --cielo: #9cc7ea;
+  --durazno: #f7c59f;
+  --verde-wa: #25d366;
+  --verde-wa-oscuro: #1ebe5b;
+  --texto: #1c2233;
+  --texto-suave: #5b6378;
+  --fondo: #f6f7fb;
+  --blanco: #ffffff;
+  --borde: #e2e5ee;
+  --radio: 16px;
+  --sombra: 0 10px 30px rgba(20, 28, 77, 0.10);
+  --ancho: 1180px;
+  --titulos: 'Montserrat', system-ui, sans-serif;
+  --cuerpo: 'Inter', system-ui, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--cuerpo);
+  color: var(--texto);
+  background: var(--fondo);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--titulos);
+  line-height: 1.15;
+  margin: 0;
+}
+
+.contenedor {
+  width: 100%;
+  max-width: var(--ancho);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.seccion {
+  padding: 72px 0;
+}
+
+.seccion-titulo {
+  font-size: clamp(1.7rem, 3.5vw, 2.4rem);
+  font-weight: 800;
+  color: var(--azul);
+}
+
+.seccion-subtitulo {
+  color: var(--texto-suave);
+  margin: 8px 0 32px;
+  max-width: 60ch;
+}
+
+.boton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 13px 22px;
+  border-radius: 999px;
+  border: 2px solid transparent;
+  font: 600 0.98rem var(--cuerpo);
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+
+.boton:active {
+  transform: scale(0.97);
+}
+
+.boton svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.boton-wa {
+  background: var(--verde-wa);
+  color: #fff;
+}
+
+.boton-wa:hover {
+  background: var(--verde-wa-oscuro);
+}
+
+.boton-naranja {
+  background: var(--naranja);
+  color: #fff;
+}
+
+.boton-naranja:hover {
+  background: var(--naranja-oscuro);
+}
+
+.boton-azul {
+  background: var(--azul);
+  color: #fff;
+}
+
+.boton-azul:hover {
+  background: var(--azul-oscuro);
+}
+
+.boton-borde {
+  background: transparent;
+  border-color: currentColor;
+}
+
+.boton-borde:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+:focus-visible {
+  outline: 3px solid var(--naranja);
+  outline-offset: 2px;
+}

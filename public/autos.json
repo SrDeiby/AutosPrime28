@@ -1,0 +1,243 @@
+[
+  {
+    "id": "hyundai-creta-2021-blanco",
+    "marca": "Hyundai",
+    "modelo": "Creta",
+    "version": "GL",
+    "anio": 2021,
+    "tipo": "SUV",
+    "kilometraje": 48000,
+    "motor": "1.5 gasolina",
+    "combustible": "Gasolina",
+    "transmision": "Automática",
+    "traccion": "4x2",
+    "pasajeros": 5,
+    "color": "Blanco",
+    "procedencia": "nacional",
+    "precio": 5450000,
+    "negociable": false,
+    "estado": "disponible",
+    "destacado": true,
+    "lemas": [
+      "Moderno",
+      "Económico",
+      "Cómodo",
+      "Bien equipado"
+    ],
+    "resumen": "SUV compacto ideal para ciudad y viajes en familia, con motor 1.5 gasolina, transmisión automática, tracción 4x2 y capacidad para 5 pasajeros.",
+    "equipamiento": [
+      "Sunroof",
+      "Excelente rendimiento de combustible",
+      "Pantalla multimedia con Bluetooth",
+      "Aire acondicionado",
+      "Cámara de reversa y sensores",
+      "Aros de lujo",
+      "Frenos ABS y airbags",
+      "Vidrios y espejos eléctricos",
+      "Amplio espacio interior y maletero",
+      "Diseño moderno y deportivo"
+    ],
+    "extras": [
+      "Único dueño",
+      "RTV al día"
+    ],
+    "fotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hyundai_Creta_1.5_GL_2021_%281%29.jpg/960px-Hyundai_Creta_1.5_GL_2021_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hyundai_Creta_1.5_GL_2021_%282%29.jpg/960px-Hyundai_Creta_1.5_GL_2021_%282%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2021_Hyundai_Creta_1.5_Trend_%28SU2id%2C_Indonesia%29_interior.jpg/960px-2021_Hyundai_Creta_1.5_Trend_%28SU2id%2C_Indonesia%29_interior.jpg"
+    ]
+  },
+  {
+    "id": "toyota-rav4-2019-blanco",
+    "marca": "Toyota",
+    "modelo": "RAV4",
+    "version": "Hybrid XLE",
+    "anio": 2019,
+    "tipo": "SUV",
+    "kilometraje": 72000,
+    "motor": "2.5 híbrido",
+    "combustible": "Híbrido",
+    "transmision": "Automática",
+    "traccion": "4x4",
+    "pasajeros": 5,
+    "color": "Blanco",
+    "procedencia": "importado",
+    "precio": 14900000,
+    "negociable": true,
+    "estado": "disponible",
+    "destacado": true,
+    "lemas": [
+      "Híbrido",
+      "Espacioso",
+      "Seguro"
+    ],
+    "resumen": "SUV híbrido con tracción integral, muy bajo consumo y espacio de sobra para la familia y el equipaje.",
+    "equipamiento": [
+      "Sistema híbrido de bajo consumo",
+      "Pantalla táctil con Apple CarPlay y Android Auto",
+      "Cámara de reversa",
+      "Control crucero adaptativo",
+      "Alerta de cambio de carril",
+      "Aire acondicionado automático",
+      "Frenos ABS y 7 airbags",
+      "Aros de aleación 18\""
+    ],
+    "extras": [
+      "Mantenimientos en agencia"
+    ],
+    "fotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019_Toyota_RAV4_Hybrid_01.jpg/960px-2019_Toyota_RAV4_Hybrid_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2019_Toyota_RAV4_Hybrid_02.jpg/960px-2019_Toyota_RAV4_Hybrid_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Toyota_RAV4_2019_%28XA50%29_CUV_Interior.jpg/960px-Toyota_RAV4_2019_%28XA50%29_CUV_Interior.jpg"
+    ]
+  },
+  {
+    "id": "nissan-kicks-2020-rojo",
+    "marca": "Nissan",
+    "modelo": "Kicks",
+    "version": "SR",
+    "anio": 2020,
+    "tipo": "SUV",
+    "kilometraje": 55000,
+    "motor": "1.6 gasolina",
+    "combustible": "Gasolina",
+    "transmision": "Automática (CVT)",
+    "traccion": "4x2",
+    "pasajeros": 5,
+    "color": "Rojo",
+    "procedencia": "importado",
+    "precio": 8250000,
+    "negociable": false,
+    "estado": "disponible",
+    "destacado": false,
+    "lemas": [
+      "Juvenil",
+      "Económico",
+      "Práctico"
+    ],
+    "resumen": "Crossover compacto, fácil de parquear y muy rendidor en combustible. Perfecto para el día a día en ciudad.",
+    "equipamiento": [
+      "Pantalla multimedia con Bluetooth",
+      "Cámara 360°",
+      "Aire acondicionado",
+      "Aros de lujo",
+      "Frenos ABS y airbags",
+      "Vidrios y espejos eléctricos"
+    ],
+    "extras": [],
+    "fotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2020_Nissan_Kicks_SR%2C_front_right.jpg/960px-2020_Nissan_Kicks_SR%2C_front_right.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2020_Nissan_Kicks_SR%2C_rear_right.jpg/960px-2020_Nissan_Kicks_SR%2C_rear_right.jpg"
+    ]
+  },
+  {
+    "id": "toyota-yaris-2018-plata",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "version": "Sedán",
+    "anio": 2018,
+    "tipo": "Sedán",
+    "kilometraje": 89000,
+    "motor": "1.5 gasolina",
+    "combustible": "Gasolina",
+    "transmision": "Manual",
+    "traccion": "4x2",
+    "pasajeros": 5,
+    "color": "Plata",
+    "procedencia": "nacional",
+    "precio": 6100000,
+    "negociable": true,
+    "estado": "disponible",
+    "destacado": false,
+    "lemas": [
+      "Confiable",
+      "Económico",
+      "Bajo mantenimiento"
+    ],
+    "resumen": "Sedán confiable de bajo mantenimiento y excelente rendimiento. Ideal como primer carro o para trabajo.",
+    "equipamiento": [
+      "Radio con Bluetooth",
+      "Aire acondicionado",
+      "Frenos ABS y airbags",
+      "Vidrios eléctricos",
+      "Cierre central"
+    ],
+    "extras": [
+      "RTV al día"
+    ],
+    "fotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Toyota_Yaris_L_sedan_01_China_2018-03-20.jpg/960px-Toyota_Yaris_L_sedan_01_China_2018-03-20.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Toyota_Yaris_L_sedan_02_China_2018-03-20.jpg/960px-Toyota_Yaris_L_sedan_02_China_2018-03-20.jpg"
+    ]
+  },
+  {
+    "id": "toyota-hilux-2017-blanco",
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "version": "DX",
+    "anio": 2017,
+    "tipo": "Pickup",
+    "kilometraje": 130000,
+    "motor": "2.4 diésel",
+    "combustible": "Diésel",
+    "transmision": "Manual",
+    "traccion": "4x2",
+    "pasajeros": 5,
+    "color": "Blanco",
+    "procedencia": "nacional",
+    "precio": 13500000,
+    "negociable": false,
+    "estado": "reservado",
+    "destacado": false,
+    "lemas": [
+      "Resistente",
+      "Trabajo pesado"
+    ],
+    "resumen": "Pickup doble cabina lista para trabajo y paseo. Motor diésel durable y cajón amplio.",
+    "equipamiento": [
+      "Doble cabina",
+      "Aire acondicionado",
+      "Radio con Bluetooth",
+      "Frenos ABS y airbags",
+      "Protector de cajón"
+    ],
+    "extras": [],
+    "fotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2017_Toyota_Hilux_DX_4x2.jpg/960px-2017_Toyota_Hilux_DX_4x2.jpg"
+    ]
+  },
+  {
+    "id": "suzuki-swift-2019-azul",
+    "marca": "Suzuki",
+    "modelo": "Swift",
+    "version": "GL",
+    "anio": 2019,
+    "tipo": "Hatchback",
+    "kilometraje": 61000,
+    "motor": "1.2 gasolina",
+    "combustible": "Gasolina",
+    "transmision": "Manual",
+    "traccion": "4x2",
+    "pasajeros": 5,
+    "color": "Azul",
+    "procedencia": "nacional",
+    "precio": 5200000,
+    "negociable": false,
+    "estado": "vendido",
+    "destacado": false,
+    "lemas": [
+      "Ágil",
+      "Económico"
+    ],
+    "resumen": "Hatchback ágil y muy económico, ideal para ciudad.",
+    "equipamiento": [
+      "Pantalla multimedia",
+      "Aire acondicionado",
+      "Frenos ABS y airbags"
+    ],
+    "extras": [],
+    "fotos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2019_Suzuki_Swift_Attitude_Dualjet_1.2_Front.jpg/960px-2019_Suzuki_Swift_Attitude_Dualjet_1.2_Front.jpg"
+    ]
+  }
+]
